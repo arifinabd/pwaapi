@@ -1,0 +1,23 @@
+{
+"product" : [ 
+{"id":1,"name":"Red-billed hornbill","category":"Green"},
+{"id":2,"name":"River wallaby","category":"Indigo"},
+{"id":3,"name":"Dog, raccoon","category":"Maroon"},
+{"id":4,"name":"Hyena, spotted","category":"Red"},
+{"id":5,"name":"Caracara (unidentified)","category":"Teal"},
+{"id":6,"name":"Red-knobbed coot","category":"Indigo"},
+{"id":7,"name":"Peacock, indian","category":"Red"},
+{"id":8,"name":"Grey lourie","category":"Khaki"},
+{"id":9,"name":"Bird, pied butcher","category":"Aquamarine"},
+{"id":10,"name":"Ringtail cat","category":"Yellow"},
+{"id":11,"name":"Hedgehog, south african","category":"Puce"},
+{"id":12,"name":"Lion, california sea","category":"Orange"},
+{"id":13,"name":"Red-capped cardinal","category":"Yellow"},
+{"id":14,"name":"Bald eagle","category":"Puce"},
+{"id":15,"name":"Egyptian cobra","category":"Yellow"},
+{"id":16,"name":"Nyala","category":"Violet"},
+{"id":17,"name":"Gray rhea","category":"Indigo"},
+{"id":18,"name":"Lemur, brown","category":"Blue"},
+{"id":19,"name":"Gull, herring","category":"Blue"},
+{"id":20,"name":"Caracara, yellow-headed","category":"Red"}]
+}
